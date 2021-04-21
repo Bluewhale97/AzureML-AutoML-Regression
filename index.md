@@ -2,7 +2,7 @@
 
 Regression algorithms are a type of machine learning algorithms, we use it to predict the labels with the exact values. I have disccussed some regression algorithms in Azure studio in my repository AzureML-Regression. 
 
-In this article we also should create the resource, the compute instances and targets. I have the articles that are very specifically talking about how to step by step create resources and machine learning instances. The respositories names are: AzureML-Startup and AzureML-AutoMLStartup, welcome to review those.
+In this article we also should create the resource, the compute instances and targets. I have the articles that are very specifically talking about how to step by step create resources and machine learning instances. The respositories names are: AzureML-Startup and AzureML-AutoMLStartup, welcome to review them.
 
 ## 1. Setups to ML assignments
 
