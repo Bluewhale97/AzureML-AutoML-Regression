@@ -290,6 +290,10 @@ The predicted price is 14997.01:
 
 ![image](https://user-images.githubusercontent.com/71245576/115626375-6ca8e180-a2cb-11eb-936e-8e63c7fda987.png)
 
+See the prediction:
+
+![image](https://user-images.githubusercontent.com/71245576/115636485-0c6e6b80-a2dc-11eb-92a5-75bb9a29bf98.png)
+
 
 ## Reference
 
